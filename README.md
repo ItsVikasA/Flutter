@@ -37,4 +37,4 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 # Install dependencies
-flutter pub get
+flutter pub  get
